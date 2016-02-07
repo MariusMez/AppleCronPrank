@@ -1,5 +1,11 @@
 # AppleCronPrank
 
+ORIGINAL IDEA BY ANTONIO ROBERTS https://github.com/hellocatfood
+
+
+https://twitter.com/hellocatfood/status/695605824815788033
+
+
   Hardware: Adafruit Trinket 5V :
   
   https://www.adafruit.com/product/1501
