@@ -27,7 +27,13 @@ https://twitter.com/hellocatfood/status/695605824815788033
   
   Pump up the volume
   
+  Check that the US keyboard is selected
+  
   Open Terminal and plug-in the USB
+  
+  Close the "New keyboard detected" window.
+  
+  Wait for the Trinket to type the code
   
   Close the Terminal
   
