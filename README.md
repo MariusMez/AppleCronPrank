@@ -23,9 +23,10 @@ https://twitter.com/hellocatfood/status/695605824815788033
   Configure your board : 
   
   Select USB Type : "Keyboard + Mouse + Joystick"
+
   Select Keyboard Layout : "US International"
   
-  Upload this code to your Teensy / After selecting 
+  Upload this code to your Teensy
   
   Process :
   
