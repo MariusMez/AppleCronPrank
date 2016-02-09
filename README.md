@@ -6,18 +6,28 @@ ORIGINAL IDEA BY ANTONIO ROBERTS https://github.com/hellocatfood
 https://twitter.com/hellocatfood/status/695605824815788033
 
 
-  Hardware: Adafruit Trinket 5V :
+  Hardware: Teensy 2.0
   
-  https://www.adafruit.com/product/1501
+  https://www.pjrc.com/store/teensy.html
 
-  Software: Adafruit Trinket Keyboard
+  Software: 
   
-  https://github.com/adafruit/Adafruit-Trinket-USB/
-
+  https://www.pjrc.com/teensy/teensyduino.html
 
   How to :
   
-  Upload this code to your Trinket
+  Solder a button between pin B2 and GND
+  
+  Install the Teensyduino software.
+  
+  Configure your board : 
+  
+  Select USB Type : "Keyboard + Mouse + Joystick"
+  Select Keyboard Layout : "US International"
+  
+  Upload this code to your Teensy / After selecting 
+  
+  Process :
   
   Go to an AppleStore / Apple retailer
   
@@ -29,13 +39,11 @@ https://twitter.com/hellocatfood/status/695605824815788033
   
   Check that the US keyboard is selected
   
-  Open Terminal and plug-in the USB
+  Plug-in the Teensy
   
   Close the "New keyboard detected" window.
   
-  Wait for the Trinket to type the code
-  
-  Close the Terminal
+  Press the button
   
   Move away
   
