@@ -1,10 +1,13 @@
 #AppleCron Prank
 
 Prank your friends ... or a whole AppleStore.
+
 \#retailpoisoning
 
 Works on MacOSX
+
 May not work in some stores, according to user profiles (ie: La Fnac).
+
 
 ##Original idea
 
