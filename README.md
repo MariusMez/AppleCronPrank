@@ -32,7 +32,7 @@ The cron job can later be removed remotely, leaving no trace.
 Note : I assume that the the index.php is hosted at the root of your domain.
 If not the case, change yourdomain.ext for yourdomain.ext/folder in the examples and in the code
 
-###In details :
+###In details
 
 I'm using a multipurpose php page which will serve the scripts.
 This page does three things :
@@ -118,7 +118,7 @@ curl -sL yourdomain.ext?i | pbcopy
 Note : be carefull with the command's syntax because when cron cannot execute a script, it will be logged in /var/mail/%username% and thus will leave a trace.
 
 
-##More about cron jobs :
+##More about cron jobs
 
 Remove all cron jobs
 ```
@@ -143,7 +143,7 @@ Replace a specific job (ie: the one containing "fortune")
 It may be worth having a look at AppleScripting for more fun.
 
 
-##Further ideas :
+##Further ideas
 
 This can be used:
 - regularly push info from your machine to a server.
