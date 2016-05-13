@@ -1,5 +1,11 @@
 #AppleCron Prank
 
+Prank your friends ... or a whole AppleStore.
+\#retailpoisoning
+
+Works on MacOSX
+May not work in some stores, according to user profiles (ie: La Fnac).
+
 ##Original idea
 
 [Antonio Roberts / @hellocatfood](http://www.hellocatfood.com/) suggested an AppleStore prank in [this tweet](https://twitter.com/hellocatfood/status/695605824815788033)
