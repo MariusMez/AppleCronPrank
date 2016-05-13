@@ -117,6 +117,13 @@ curl -sL yourdomain.ext?i | pbcopy
 
 Note : be carefull with the command's syntax because when cron cannot execute a script, it will be logged in /var/mail/%username% and thus will leave a trace.
 
+###Remote control
+
+Here is the interface where you can select predefined command or enter new ones.
+This will update the script.txt file which will serve the command upon cronjob request.
+
+![Alt text](/screenshot.png?raw=true "Schematic")
+
 
 ##More about cron jobs
 
